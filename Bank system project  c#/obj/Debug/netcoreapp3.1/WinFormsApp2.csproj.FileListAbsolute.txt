@@ -1,0 +1,262 @@
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\Tulpep.NotificationWindow.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.Form_display_info.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.form_checkBalance.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.Form_complaint.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.Form_deposit.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.Form_recieve_complaint.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.Form_transfer.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.Form_withdraw.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.Form_logIn.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.main_form.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.Form_account.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\projectfinal.Form_newUser.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Properties.Resources.resources
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Mariam\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+D:\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+D:\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+D:\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+D:\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+D:\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\Tulpep.NotificationWindow.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_display_info.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.form_checkBalance.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_complaint.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_deposit.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_recieve_complaint.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_transfer.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_withdraw.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_logIn.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.main_form.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_account.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_newUser.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.Properties.Resources.resources
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mariam\source\repos\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_display_info.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.form_checkBalance.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_complaint.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_deposit.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_recieve_complaint.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_transfer.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_withdraw.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_logIn.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.main_form.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_account.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_newUser.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.Properties.Resources.resources
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\Mariam\source\repos\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\L3-Term1\New folder\bank management system\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_display_info.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.form_checkBalance.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_complaint.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_deposit.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_recieve_complaint.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_transfer.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_withdraw.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_logIn.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.main_form.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_account.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\projectfinal.Form_newUser.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.Properties.Resources.resources
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\L3-Term1\New folder\bank management system\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
